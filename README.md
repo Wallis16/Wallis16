@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [Diógenes Wallis](www.linkedin.com/in/diogenes-wallis).
+### Hi there 👋, I'm [Diógenes Wallis](https://www.linkedin.com/in/diogenes-wallis).
 
 <!--
 **Wallis16/Wallis16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
