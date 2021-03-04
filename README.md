@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Wallis16)](https://github.com/wallis16/github-readme-stats)
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Wallis16&show_icons=true&hide_title=true&hide_border=true">
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wallis16&langs_count=8&hide=javascript,html,css&theme=graywhite&layout=compact&custom_title=Languages&card_width=260">
+</a>
